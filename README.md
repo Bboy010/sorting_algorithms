@@ -1,4 +1,4 @@
-# sorting_algorithms
+<h1> sorting_algorithms</h1>
 0x1B. C - Sorting algorithms &amp; Big O
  By: Alexandre Gautier
  Weight: 2
